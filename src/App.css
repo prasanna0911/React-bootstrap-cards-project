@@ -1,0 +1,5 @@
+nav .nav-link:hover,
+nav .nav-link:hover .nav-link:active{
+  color:darkblue !important;
+  background-color: beige;
+}
