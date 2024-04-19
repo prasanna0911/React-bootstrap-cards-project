@@ -1,5 +1,5 @@
 import "../App.css";
-import logo from "../images/travel_company_logo.png";
+
 import logo1 from '../logo2.png'
 function Header() {
   return (
