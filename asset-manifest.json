@@ -1,24 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.f09ac43a.css",
-    "main.js": "/static/js/main.f98aa8f7.js",
+    "main.js": "/static/js/main.efb00371.js",
     "static/js/787.b436d1fc.chunk.js": "/static/js/787.b436d1fc.chunk.js",
-    "static/media/newyork.jpg": "/static/media/newyork.a6f6261e7018567323f0.jpg",
-    "static/media/paris.jpg": "/static/media/paris.84c653772f9b5fb87907.jpg",
-    "static/media/london.jpg": "/static/media/london.19cfbfadfa7fa52c0b8e.jpg",
-    "static/media/tokyo.jpg": "/static/media/tokyo.d84b168734e0194e8c31.jpg",
     "static/media/interstellar.jpg": "/static/media/interstellar.f500bcdbaacb1ee72487.jpg",
-    "static/media/travel_company_logo.png": "/static/media/travel_company_logo.eee126e43934703cab26.png",
     "static/media/batman.jpg": "/static/media/batman.0898133b914278bbd9f5.jpg",
     "static/media/avengers.jpg": "/static/media/avengers.04203f65e173d97ac204.jpg",
     "static/media/opprmheimer.jpg": "/static/media/opprmheimer.5192f81c0062477768cf.jpg",
     "index.html": "/index.html",
     "main.f09ac43a.css.map": "/static/css/main.f09ac43a.css.map",
-    "main.f98aa8f7.js.map": "/static/js/main.f98aa8f7.js.map",
+    "main.efb00371.js.map": "/static/js/main.efb00371.js.map",
     "787.b436d1fc.chunk.js.map": "/static/js/787.b436d1fc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f09ac43a.css",
-    "static/js/main.f98aa8f7.js"
+    "static/js/main.efb00371.js"
   ]
 }
